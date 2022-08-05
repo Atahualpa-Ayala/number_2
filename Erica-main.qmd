@@ -1,0 +1,26 @@
+---
+title: "Ericas-page"
+format: html
+editor: visual
+---
+
+## A few logical expressions
+
+Almost to the weekend!
+
+```{r}
+5 == 1
+"cat" == "dog"
+
+meds <- c(1, 2, 3, 4, 5)
+meds == 3
+meds == 1 | meds == 9
+meds == 1 | meds >= 3
+
+# The sweetest doggoes
+teddy <- 5
+banjo <- 7
+tallie <- 4
+
+teddy <= banjo
+```
