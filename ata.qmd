@@ -9,3 +9,7 @@ editor: visual
 **subscript**
 
 So we continue working
+
+```{r}
+penguin <- c("cute", "fluffy", "warm")
+```
